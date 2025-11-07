@@ -2,8 +2,8 @@
 #'
 #' The economic growth data set from Fernandez, Ley and Steel, Journal of Applied Econometrics 2001
 #'
-#' @format A data frame with 53940 rows and 10 variables:
-#' A data frame with 72 observations on the following 42 variables.
+#' @format
+#' A data frame with 72 observations on the following 42 variables:
 #'  \describe{
 #'    \item{\code{y}}{numeric: Economic growth 1960-1992 as from the Penn World Tables Rev 6.0}
 #'    \item{\code{Abslat}}{numeric: Absolute latitude}
